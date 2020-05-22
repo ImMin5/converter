@@ -1,0 +1,6 @@
+open #include <sys/types.h> #include <sys/stat.h> #include <fcntl.h>
+read #include <unistd.h>
+exit #include <stdlib.h>
+printf #include <stdio.h>
+scanf #include <stdio.h>
+calloc #include <stdlib.h>
